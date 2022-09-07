@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 import HeadNav from './components/header';
 import Home from './routes/home';
+import Outerwear from './routes/outerwear';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -20,6 +21,8 @@ root.render(
         </header>
         <Routes>
           <Route path="/" element={<Home/>} />
+          <Route path="/men" element={<Outerwear/>} />
+          <Route path="/women" element={<Outerwear isWomen={true}/>} />
         </Routes>
       </Router>
   </React.StrictMode>

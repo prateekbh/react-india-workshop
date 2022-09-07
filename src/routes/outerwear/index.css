@@ -1,0 +1,22 @@
+.banner {
+    text-align: center;
+    margin-top: 32px;
+}
+
+.item-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item {
+    flex: 1;
+    flex-basis: 33%;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.itemname {
+    margin-top: 48px;
+    font-weight: bold;
+}
