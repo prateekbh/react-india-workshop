@@ -36,6 +36,8 @@
     ]
   },
   "devDependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
     "react-router": "^6.3.0",
     "react-router-dom": "^6.3.0"
   }
