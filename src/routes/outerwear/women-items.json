@@ -1,26 +1,32 @@
 [
     {
         "name": "Ladies Modern Stretch Full Zip",
-        "cost": "$41.60"
+        "cost": "$41.60",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-24102B.jpg"
     },
     {
         "name": "Ladies Colorblock Wind Jacket",
-        "cost": "$45.90"
+        "cost": "$45.90",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-25058B.jpg"
     },
     {
         "name": "Ladies Voyage Fleece Jacket",
-        "cost": "$48.00"
+        "cost": "$48.00",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-24101B.jpg"
     },
     {
         "name": "Ladies Pullover L/S Hood",
-        "cost": "$36.50"
+        "cost": "$36.50",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-24098B.jpg"
     },
     {
         "name": "Ladies Sonoma Hybrid Knit Jacket",
-        "cost": "$84.85"
+        "cost": "$84.85",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-24097B.jpg"
     },
     {
         "name": "Ladies Yerba Knit Quarter Zip",
-        "cost": "$64.20"
+        "cost": "$64.20",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-24099B.jpg"
     }
 ]
