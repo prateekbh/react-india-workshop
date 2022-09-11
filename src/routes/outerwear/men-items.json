@@ -1,62 +1,77 @@
 [
     {
         "name": "men's tech shell full-zip",
-        "cost": "$50.20"
+        "cost": "$50.20",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-15068B.jpg"
     },
     {
         "name": "anvil l/s crew neck - grey",
-        "cost": "$22.15"
+        "cost": "$22.15",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14154B.jpg"
     },
     {
         "name": "green flex fleece zip hoodie",
-        "cost": "$45.65"
+        "cost": "$45.65",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14157B.jpg"
     },
     {
         "name": "android nylon packable jacket",
-        "cost": "$33.60"
+        "cost": "$33.60",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-15041B.jpg"
     },
     {
         "name": "youtube ultimate hooded sweatshirt",
-        "cost": "$32.35"
+        "cost": "$32.35",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14133B.jpg"
     },
     {
         "name": "grey heather fleece zip hoodie",
-        "cost": "$38.85"
+        "cost": "$38.85",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14160B.jpg"
     },
     {
         "name": "vastrm hoodie",
-        "cost": "$200.00"
+        "cost": "$200.00",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14153B.jpg"
     },
     {
         "name": "recycled plastic bottle hoodie - green",
-        "cost": "$60.95"
+        "cost": "$60.95",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14158B.jpg"
     },
     {
         "name": "rowan pullover hood",
-        "cost": "$60.85"
+        "cost": "$60.85",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14152B.jpg"
     },
     {
         "name": "men's voyage fleece jacket",
-        "cost": "$48.00"
+        "cost": "$48.00",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14155B.jpg"
     },
     {
         "name": "eco-jersey chrome zip up hoodie",
-        "cost": "$37.75"
+        "cost": "$37.75",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14159B.jpg"
     },
     {
         "name": "android colorblock hooded pullover",
-        "cost": "$50.20"
+        "cost": "$50.20",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14146B.jpg"
     },
     {
         "name": "tri-blend full-zip hoodie",
-        "cost": "$52.20"
+        "cost": "$52.20",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14216B.jpg"
     },
     {
         "name": "fleece full-zip hoodie",
-        "cost": "$45.65"
+        "cost": "$45.65",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14215B.jpg"
     },
     {
         "name": "jacquard-knit full-zip fleece",
-        "cost": "$74.90"
+        "cost": "$74.90",
+        "url": "https://shop.polymer-project.org/esm-bundled/data/images/10-14217B.jpg"
     }
 ]

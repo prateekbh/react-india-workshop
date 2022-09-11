@@ -21,7 +21,7 @@ export default function MensOuterwear({ isWomen }) {
                     <div className="item">
                         <Link to="/product">
                             <div>
-                                <img src="https://shop.polymer-project.org/esm-bundled/data/images/10-15068B.jpg" />
+                                <img src={item.url||"https://shop.polymer-project.org/esm-bundled/data/images/10-15068B.jpg"} />
                             </div>
                             <div className="itemname">{_.upperFirst(item.name)}</div>
                             <div>{item.cost}</div>
