@@ -1,6 +1,7 @@
 import menItems from './men-items.json';
 import womenItems from './women-items.json';
 import { Link } from "react-router-dom";
+import _ from "lodash";
 
 import './index.css'
 
@@ -22,7 +23,7 @@ export default function MensOuterwear({ isWomen }) {
                             <div>
                                 <img src="https://shop.polymer-project.org/esm-bundled/data/images/10-15068B.jpg" />
                             </div>
-                            <div className="itemname">{item.name}</div>
+                            <div className="itemname">{_.upperFirst(item.name)}</div>
                             <div>{item.cost}</div>
                         </Link>
                     </div>
