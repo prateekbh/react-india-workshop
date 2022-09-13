@@ -10,3 +10,9 @@ nav a{
     flex: 1;
     color: #666;
 }
+
+@media only screen and (max-device-width: 480px) {
+    nav {
+        display: none;
+    }
+}
