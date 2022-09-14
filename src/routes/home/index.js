@@ -15,7 +15,7 @@ export default function HomePage() {
                 <div>
                     <img src="https://shop.polymer-project.org/esm-bundled/images/ladies_outerwear.jpg" />
                 </div>
-                <span> Men's Outerwear </span>
+                <span> Women's Outerwear </span>
             </Link>
             <div className="split-half">
                 <Link className="half-link" to="/men-tee">
