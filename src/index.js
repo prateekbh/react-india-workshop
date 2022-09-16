@@ -17,7 +17,7 @@ root.render(
   <React.StrictMode>
       <Router>
         <header>
-          <div>SHOP</div>
+          <h1>SHOP</h1>
           <HeadNav></HeadNav>
         </header>
         <Routes>
