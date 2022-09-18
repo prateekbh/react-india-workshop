@@ -2,6 +2,7 @@ import menItems from './men-items.json';
 import womenItems from './women-items.json';
 import { Link } from "react-router-dom";
 import _ from "lodash";
+import moment from 'moment';
 
 import './index.css'
 
@@ -25,6 +26,7 @@ export default function MensOuterwear({ isWomen }) {
                             </div>
                             <div className="itemname">{_.upperFirst(item.name)}</div>
                             <div>{item.cost}</div>
+                            <div>Added - {moment().format('MMMM Do YYYY, h:mm:ss a')}</div>
                         </Link>
                     </div>
                 ))}
