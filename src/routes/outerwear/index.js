@@ -5,8 +5,14 @@ import _ from "lodash";
 import moment from 'moment';
 
 import './index.css'
+import { useEffect } from 'react';
 
 export default function MensOuterwear({ isWomen }) {
+    useEffect(() => {
+        for (let i; i<50000; i++) {
+            
+        }
+    }, [])
     const bannerSrc = isWomen ? "https://shop.polymer-project.org/esm-bundled/images/ladies_outerwear.jpg" : "https://shop.polymer-project.org/esm-bundled/images/ladies_outerwear.jpg"
     const items = isWomen ? womenItems : menItems
     return (
