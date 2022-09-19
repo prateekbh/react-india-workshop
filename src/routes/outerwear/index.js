@@ -9,8 +9,9 @@ import { useEffect } from 'react';
 
 export default function MensOuterwear({ isWomen }) {
     useEffect(() => {
-        for (let i; i<50000; i++) {
-            
+        console.log("use effect")
+        for (let i=0; i<50000; i++) {
+            console.log(moment.ISO_8601())
         }
     }, [])
     const bannerSrc = isWomen ? "https://shop.polymer-project.org/esm-bundled/images/ladies_outerwear.jpg" : "https://shop.polymer-project.org/esm-bundled/images/ladies_outerwear.jpg"
