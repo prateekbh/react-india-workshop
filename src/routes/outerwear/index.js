@@ -8,7 +8,7 @@ import './index.css'
 import { useEffect } from 'react';
 
 export default function MensOuterwear({ isWomen }) {
-    useEffect(() => {
+    useEffect(function efect(){
         console.log("use effect")
         for (let i=0; i<50000; i++) {
             console.log(moment.ISO_8601())
